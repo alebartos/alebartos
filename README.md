@@ -7,6 +7,7 @@ I build backend services and web apps, run my own self-hosted infrastructure, an
 
 | Project | What it is | Stack |
 |---|---|---|
+| [arm-sim-mac](https://github.com/alebartos/arm-sim-mac) | µVision-style IDE and Cortex-M simulator for macOS: opens Keil `.uvprojx` projects, builds them with clang and a native armasm assembler, and debugs them on simulated Cortex-M0/M3/M4 cores with LPC17xx peripherals and the LandTiger board. | Swift, SwiftUI |
 | [smarther_hybrid](https://github.com/alebartos/smarther_hybrid) | Home Assistant integration that merges the local HomeKit and cloud Netatmo entities of a BTicino Smarther2 thermostat into one climate entity. Installable via HACS, with tests and versioned releases. | Python, Home Assistant |
 | [messaggeria](https://github.com/alebartos/messaggeria) | Real-time messaging game for venues and events, with admin/staff roles, JWT auth and rate limiting. Shipped as a Docker image with CI. | TypeScript, React, Express, Prisma, Docker |
 | [DApp_analysis_ecosystem](https://github.com/alebartos/DApp_analysis_ecosystem) | BSc thesis: OCEL 2.0 pipeline for object-centric process mining on Ethereum DApp transactions. | JavaScript, Node.js, MongoDB |
